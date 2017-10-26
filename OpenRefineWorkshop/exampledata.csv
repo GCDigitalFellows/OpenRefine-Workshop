@@ -1,26 +1,26 @@
 Year,Area (use fill down),Street (use find and replace to replace the odd character with a space),Street 2 (in Refine use titlecase and cluster and edit),Strange HTML (use unescape HTML)
 2011,Birmingham,AcocksåGreen,Acocks Green,One &amp; Two
-2011,,AdderlyåStreet,Adderly Street,Some &ndash; ndash
+2012,,AdderlyåStreet,Adderly Street,Some &ndash; ndash
 2011,," AlcesteråRaod,åMosley"," Alcester Raod, Mosley",&euro;300
 2011,,alcesteråroad,alcester road,alcester&nbsp;road
-2011,,alcesteråroadåmoseley,alcester road moseley,&quot;That silly man&quot;
+2013,,alcesteråroadåmoseley,alcester road moseley,&quot;That silly man&quot;
 2011,,AlcesteråRoadåMoseley,Alcester Road Moseley,&lt;html&gt;
 2011,,AlfredåStreet,Alfred Street,One &amp; Two
 2011,," Allåserviceåclub,åMosley"," All service club, Mosley",Some &ndash; ndash
-2011,,AlumåRockåRoad,Alum Rock Road,&euro;300
+2017,,AlumåRockåRoad,Alum Rock Road,&euro;300
 2011,,AlumåRockåRoad,Alum Rock Road,alcester&nbsp;road
 2011,,AlumåRockåRoad,Alum Rock Road,&quot;That silly man&quot;
-2011,,AlumåRockåRoad,Alum Rock Road,&lt;html&gt;
+2021,,AlumåRockåRoad,Alum Rock Road,&lt;html&gt;
 2011,,arcadianåcentre,arcadian centre,One &amp; Two
 2011,," ArdenåRoad,åSaltley"," Arden Road, Saltley",Some &ndash; ndash
 2011,," Asda,åChemsleyåWood"," Asda, Chemsley Wood",&euro;300
 2011,," BalsahllåHeathåPark,åJ/WåBrightonåroad"," Balsahll Heath Park, J/W Brighton road",alcester&nbsp;road
-2011,,BamfordåRoad,Bamford Road,&quot;That silly man&quot;
+-2011,,BamfordåRoad,Bamford Road,&quot;That silly man&quot;
 2011,,BamfordåRoad,Bamford Road,&lt;html&gt;
 2011,,BeechBrookåAvenueåSparkhill,BeechBrook Avenue Sparkhill,One &amp; Two
-2011,,BelchersåLane,Belchers Lane,Some &ndash; ndash
+011,,BelchersåLane,Belchers Lane,Some &ndash; ndash
 2011,,BelchersåLane,Belchers Lane,&euro;300
-2011,,BelchersåLane,Belchers Lane,alcester&nbsp;road
+1711,,BelchersåLane,Belchers Lane,alcester&nbsp;road
 2011,," BelchersåLane,åBordesleyåGreen"," Belchers Lane, Bordesley Green",&quot;That silly man&quot;
 2011,,BellåStreet,Bell Street,&lt;html&gt;
 2011,," BerkleyåRdåEastå,ååHaymills."," Berkley Rd East ,  Haymills.",One &amp; Two
@@ -29,7 +29,7 @@ Year,Area (use fill down),Street (use find and replace to replace the odd charac
 2011,,BordesleyåGreen,Bordesley Green,alcester&nbsp;road
 2011,," BordesleyåGreenå,ååBordesleyåGreen."," Bordesley Green ,  Bordesley Green.",&quot;That silly man&quot;
 2011,,BristolåRoad,Bristol Road,&lt;html&gt;
-2011,,BristolåStreet,Bristol Street,One &amp; Two
+9011,,BristolåStreet,Bristol Street,One &amp; Two
 2011,,BroadåStreet,Broad Street,Some &ndash; ndash
 2011,,BroadåStreet,Broad Street,&euro;300
 2011,,BroadåStreetåBirmingham,Broad Street Birmingham,alcester&nbsp;road
@@ -37,10 +37,10 @@ Year,Area (use fill down),Street (use find and replace to replace the odd charac
 2011,," BullsåHeadåPH,åStåMarysåRow"," Bulls Head PH, St Marys Row",&lt;html&gt;
 2011,," BushburyåRoad,åKittsåGreen"," Bushbury Road, Kitts Green",
 2011,,CharticeåRoad,Chartice Road,
-2011,,ChestnutåRoad,Chestnut Road,
+2013,,ChestnutåRoad,Chestnut Road,
 2011,," churchård,åstechford"," church rd, stechford",
 2011,," ChurchåRoad,åSheldon"," Church Road, Sheldon",
-2011,,CliffordåRDåDorridge.,Clifford RD Dorridge.,
+2001,,CliffordåRDåDorridge.,Clifford RD Dorridge.,
 2011,,ClockåLane,Clock Lane,
 2011,," Colonialåroad,åBordesleyåGreen`"," Colonial road, Bordesley Green`",
 2011,," CorporationåSt,Birmingham"," Corporation St,Birmingham",
